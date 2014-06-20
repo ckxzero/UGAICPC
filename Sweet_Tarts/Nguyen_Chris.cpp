@@ -2,7 +2,7 @@
  0 and 1
  June 19, 2014
  
- Given prefence from greatest to least of 4 candies A, B, C, D and a roll of candy,
+ Given the prefence from greatest to least of 4 candies A, B, C, D and a roll of candy,
  determine the maximum score from eating the roll of candy. A score for eating any
  piece of candy is the turn it was eaten on multiply to the preference for that candy.
  */
